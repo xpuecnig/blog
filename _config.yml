@@ -1,0 +1,53 @@
+url: http://xpuecnig.github.io
+baseurl: /blog/
+
+# Site settings
+title: Cipeng's Blog
+email: 657808861@qq.com
+description: "Cipeng's Blog - GitHub"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: fed136
+  secondary: fec503  
+  secondary-dark: 333
+
+# Team names, titles and social links
+people:
+- name: 徐赐朋(Cipeng Xu)
+  pic: 0
+  position: 前端er
+  social:
+    - title: twitter
+      url: http://twitter.com/657808861
+    - title: facebook
+      url: http://facebook.com/cipeng.xu
+    - title: google-plus
+      url: https://plus.google.com/u/0/111430220401597812960
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/657808861
+  - title: facebook
+    url: http://facebook.com/cipeng.xu
+  - title: google-plus
+    url: https://plus.google.com/u/0/111430220401597812960
+  - title: github
+    url: http://github.com/xpuecnig
+  - title: instagram
+    url: http://www.instagram.com/xpuecnig
+  - title: qq
+    url: http://user.qzone.qq.com/657808861
+  - title: weixin
+    url: cipeng
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Shanghai
+  - line: China, The Earth
+
+# Build settings
+markdown: kramdown
+permalink: pretty
